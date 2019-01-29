@@ -1,0 +1,322 @@
+body {
+    background-color:lavender;
+}
+
+nav {
+    background: black;
+    z-index: 100;
+    border: 2px solid transparent;
+    text-align: center;
+    border-radius: 5px;
+    padding: 0;
+    margin: 10px;
+}
+
+.sticky {
+    position: sticky;
+    top: 5px;
+}
+
+.navbox {
+        box-sizing: border-box;
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+        border: 2px solid transparent;
+        background: lightseagreen;
+        text-align: center;
+        border-radius: 5px;
+}
+
+#picturebox{
+    background: transparent;
+}
+
+#pimage{
+    border: 0px solid transparent;
+    text-align: center;
+    border-radius: 5px 50px 5px;
+    padding: 0px;
+    display: 10%;
+    width: 30%;
+    height: auto;
+    z-index: 10;
+}
+
+/* #profile {
+    display: inline;
+    position: absolute;
+    left: 10px;
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px 5px;
+    width: 400px;
+    height: 25%;
+} */
+
+/* #title {
+    display: inline;
+    position: absolute;
+    left: 400px;
+    right: 400px;
+    border: 2px solid transparent;
+    background: transparent;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    height: 25%;
+} */
+
+/* #objective {
+    display: inline;
+    position: absolute;
+    right: 10px;
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px 5px;
+    width: 400px;
+    height: 25%;
+} */
+
+/* aside{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline;
+    position: fixed;
+    top: 325px;
+    right: 10px;
+    width: 200px;
+    height: 500px;
+    z-index: -1;
+} */
+
+#sidebar{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline;
+    position: absolute;
+    top: 300px;
+    left: 10px;
+    z-index: 3;
+    width: 200px;
+    height: 500px;
+}
+
+main{
+    position: relative;
+}
+
+#body1{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    position: absolute;
+    top: 325px;
+    left: 250px;
+    z-index: -1;
+    width: 1070px;
+    column-count: 4/12;
+    ro
+}
+
+#body2{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    position: absolute;
+    top: 450px;
+    left: 250px;
+    z-index: -1;
+    width: 1070px;
+}
+
+#body3 {
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    position: absolute;
+    top: 800px;
+    left: 250px;
+    z-index: -1;
+    width: 1070px;
+}
+
+/* main{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline;
+    position: absolute;
+    top: 325px;
+    left: 250px;
+    z-index: -1;
+    width: 1070px;
+} */
+
+footer{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    position: relative;
+    top: 1000px;
+    left: 250px;
+    z-index: -1;
+}
+
+
+
+
+
+header {
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+.h{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table, th, td{
+    border: 3px;
+    border-collapse: collapse;
+    border-spacing: 75px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+li {
+    text-align: left;
+    font-style: italic;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5 {
+    color: black;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* #gridDisplay{
+    display: grid;
+    grid-gap: 5px;
+    grid-auto-rows: minmax(60px,auto);
+} */
+
+/* .grid_item{
+    border: 2px solid transparent;
+    background: lightseagreen;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+} */
+
+/* .one{
+    background-color: darkslategray;
+    grid-column: 1/2;
+    grid-row: 1/4;
+} */
+
+/* .two{
+    background-color: transparent;
+    grid-column: 2/9;
+    grid-row: 1/4;
+} */
+
+/* .three{
+    background-color: darkslategray;
+    grid-column: 9/12;
+    grid-row: 1/4;
+} */
+
+/* .four{
+    background-color:rgb(205,222,211);
+    grid-column: 1/2;
+    grid-row: 4/10;
+} */
+
+/* .five{
+    background-color: whitesmoke;
+    grid-column: 2/12;
+    grid-row: 4/6;
+} */
+
+/* .six{
+    background-color: whitesmoke;
+    grid-column: 2/12;
+    grid-row: 6/8;
+} */
+
+/* .seven{
+    background-color: whitesmoke;
+    grid-column: 2/12;
+    grid-row: 8/10;
+} */
+
+/* .eight{
+    background-color: darkslategray;
+    grid-column: 1/6;
+    grid-row: 10/12;
+} */
+
+/* .nine{
+    background-color: darkslategray;
+    grid-column: 6/12;
+    grid-row: 10/12;
+} */
