@@ -1,3 +1,25 @@
+#html-css-module_1.2
+
+Make your own web resume:
+-One page
+-Two files: HTML and CSS
+-Include the following:
+  -Your personal info (name, place of birth, etc.)
+  -A picture
+  -A few lines about who you are
+  -Education
+  -Work experience
+-Include the following:
+  -Different types of headings (<h1>, <h2>)
+  -A list (<ul>). In this list include the learning strategies you used making your resume. Also include some of the resources/references,    this can be documentation/video etc, that where helpful.
+  -Another list (<ul>). In this list you include the most important platforms/resources where you can find all Social Hackers Academy       related information.
+  -<img>
+  -<p>
+  -Some CSS properties: margin, padding
+Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/y1ann1s85/htmlcss_w1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
