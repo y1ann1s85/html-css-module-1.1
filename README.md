@@ -1,5 +1,7 @@
 # html-css-module_1_update
 
+https://github.com/SocialHackersCodeSchool/HTML-CSS/blob/master/Week2/MAKEME.md
+
 Make your own web resume:
 -One page
 -Two files: HTML and CSS
