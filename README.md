@@ -1,3 +1,3 @@
-# html-css-module-1.2
+# html-css-module-1.1_update
 
 https://github.com/SocialHackersCodeSchool/HTML-CSS/blob/master/Week2/MAKEME.md
